@@ -1,4 +1,4 @@
-This package contains Matlab implementations of the algorithms proposed in "AUC Maximization in Bayesian Hierarchical Models", which is appearing in ECAI 2016.
+This repository contains Matlab implementations of the algorithms proposed in "AUC Maximization in Bayesian Hierarchical Models", which is appearing in the Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016).
 
 Baseline methods
 ----------------
@@ -12,6 +12,6 @@ BAM methods
 * bam_listwise_classification_variational_train.R => training procedure for Bayesian AUC maximization using listwise ranking
 * bam_listwise_classification_variational_test.R => test procedure for Bayesian AUC maximization using listwise ranking
 
-If you use any of the algorithms implemented in the package, please cite the following paper:
+If you use any of the algorithms implemented in this repository, please cite the following paper:
 
 Mehmet Gonen. AUC Maximization in Bayesian Hierarchical Models. Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016), The Hague, The Netherlands, 2016.

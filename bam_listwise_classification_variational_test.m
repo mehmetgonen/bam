@@ -1,5 +1,3 @@
-% Mehmet Gonen (mehmet.gonen@gmail.com)
-
 function prediction = bam_listwise_classification_variational_test(X, state)
     N = size(X, 2);
 
